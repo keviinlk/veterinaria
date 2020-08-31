@@ -1,0 +1,13 @@
+body{
+    background-image: url(../images/background.jpg);
+}
+.dueño{
+	font-size: 25px;
+	
+	width: 600px;
+    background-color: grey;
+    text-align: center;
+}
+.nuv{
+    text-align: center;
+}
